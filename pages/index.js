@@ -1,4 +1,4 @@
 function Home() {
-  return <h1>Testando 123</h1>;
+  return <h1>TabNews!</h1>;
 }
 export default Home;
