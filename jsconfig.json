@@ -1,3 +1,5 @@
 {
   "compilerOptions": { "baseUrl": "." }
 }
+
+//Pesquisar sobre absolute imports no react e typescript
